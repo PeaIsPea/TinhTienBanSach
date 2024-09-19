@@ -1,0 +1,10 @@
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\bin\Debug\TinhTienBanSach.exe.config
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\bin\Debug\TinhTienBanSach.exe
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\bin\Debug\TinhTienBanSach.pdb
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\obj\Debug\TinhTienBanSach.csproj.AssemblyReference.cache
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\obj\Debug\TinhTienBanSach.Form1.resources
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\obj\Debug\TinhTienBanSach.Properties.Resources.resources
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\obj\Debug\TinhTienBanSach.csproj.GenerateResource.cache
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\obj\Debug\TinhTienBanSach.csproj.CoreCompileInputs.cache
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\obj\Debug\TinhTienBanSach.exe
+D:\HOC TAP\C#v2\Winform\TinhTienBanSach\TinhTienBanSach\TinhTienBanSach\obj\Debug\TinhTienBanSach.pdb
